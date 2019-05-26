@@ -13,8 +13,8 @@ $
 ```MENJALANKANNYA```
 
 $cd TOOLSINSTALLERv3
-$chmod +x TUANB4DUT.sh
-$sh TUANB4DUT.sh
+$chmod +x ez.sh
+$sh ez.sh
 
 T??M?EZ
 
